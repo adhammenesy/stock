@@ -1,0 +1,6 @@
+TOKEN=
+CLIENT_ID=
+GUILD_ID=
+
+
+if you using [ host vs code ... ] change this file name to .env  
